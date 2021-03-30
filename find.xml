@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Migrations'" />
-    <option name="defaultScopeName" value="Project 'Migrations'" />
-    <option name="SEARCH_SCOPE" value="Project 'Migrations'" />
+    <option name="customScope" value="Project 'M5Services'" />
+    <option name="defaultScopeName" value="Project 'M5Services'" />
+    <option name="SEARCH_SCOPE" value="Project 'M5Services'" />
   </component>
 </application>
